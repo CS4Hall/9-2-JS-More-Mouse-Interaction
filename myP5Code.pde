@@ -9,7 +9,7 @@ draw = function() {
     ellipse(mouseX, mouseY, 20, 20);
 
   //***in the video they use if(mouseIsPressed)
-  //***in glitch we use if(mousePressed)
+  //***in github we use if(mousePressed)
 
   funWithKeys();
 };
